@@ -22,3 +22,5 @@ def about():
 
 if __name__ == "__main__":
     app.run()
+    #Comment the line above and uncomment the line below if you running locally
+	#app.run(host='0.0.0.0', port=8000)

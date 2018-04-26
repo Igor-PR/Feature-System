@@ -16,6 +16,7 @@ The API server adress is https://iws-backend.herokuapp.com/
 # How to run
 	
 python3 server.py
+If you are running it locally, the app line in the code may need to be switched so both backend and frontend use different ports
 
 ## Details
 
