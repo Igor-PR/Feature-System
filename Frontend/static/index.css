@@ -1,0 +1,20 @@
+.well .btn {
+	font-size: 20px;
+	/*margin: auto;*/
+	width: 100%;
+	border-radius: 25px;
+    margin: 5%;
+}
+
+.well {
+	margin: 5%;
+}
+
+/*.well .btn{
+    
+}*/
+
+.menuHeader {
+	margin: 5%;
+	text-align: center !important;
+}
